@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a5e1234-1100-4917-9bdf-687150e205e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../09_FilesAndNetwork/HomeWorkFiles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_FilesAndNetwork/HomeWorkFiles/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_FilesAndNetwork/HomeWorkFiles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_FilesAndNetwork/HomeWorkFiles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_FilesAndNetwork/HomeWorkFiles/HomeWorkFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_FilesAndNetwork/HomeWorkFiles/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YlrFAjkOVk9oNYbFzgg27ohr23" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559622580090" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/json-simple-1.1.1.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitSkillbox\java_basics\08_ExceptionsDebuggingAndTesting\SPBMetro\logs" />
+      <recent name="C:\GitSkillbox\java_basics\08_ExceptionsDebuggingAndTesting\SPBMetro\lib" />
+      <recent name="C:\GitSkillbox\java_basics\08_ExceptionsDebuggingAndTesting\SPBMetro" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SPBMetro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SPBMetro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPBMetro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testCalculateDuration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPBMetro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateDuration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testCalculateDurationNotZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPBMetro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateDurationNotZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testGetShortestRouteNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPBMetro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testGetShortestRouteNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testCalculateDurationNotZero" />
+        <item itemvalue="JUnit.All in SPBMetro" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testGetShortestRouteNegative" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testCalculateDuration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a5e1234-1100-4917-9bdf-687150e205e8" name="Default Changelist" comment="" />
+      <created>1559569584327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559569584327</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="99" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1584468965446">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="99" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1600.860@0.0.1600.860" timestamp="1584468965446" />
+    <state x="506" y="173" key="FileChooserDialogImpl" timestamp="1584559372247">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="173" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584559372247" />
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1584474684085">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584474684085" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1584474684085">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584474684085" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1584474684085">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584474684085" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1584474684085">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584474684085" />
+    <state width="1556" height="270" key="GridCell.Tab.1.bottom" timestamp="1583870856347">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583870856347" />
+    <state width="1556" height="270" key="GridCell.Tab.1.center" timestamp="1583870856347">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583870856347" />
+    <state width="1556" height="270" key="GridCell.Tab.1.left" timestamp="1583870856347">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583870856347" />
+    <state width="1556" height="270" key="GridCell.Tab.1.right" timestamp="1583870856347">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583870856347" />
+    <state x="247" y="13" key="SettingsEditor" timestamp="1584470548430">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="247" y="13" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1584470548430" />
+    <state x="507" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584559332324">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584559332324" />
+    <state x="568" y="132" width="695" height="717" key="find.popup" timestamp="1584466238292">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="568" y="132" width="695" height="717" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1584466238292" />
+    <state x="182" y="137" key="new project wizard" timestamp="1584559401807">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="137" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1584559401807" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1584466590111">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1584466590111" />
+  </component>
+</project>
